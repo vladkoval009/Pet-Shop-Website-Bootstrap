@@ -1,0 +1,13 @@
+.jumbotron {
+    padding: 30vh;
+    background: url(./assets/jumbotron-img.jpg);
+    background-size: cover;
+
+
+}
+
+.bg-4 { 
+    padding: 50px;
+    background-color: khaki;
+    color: black;
+  }
